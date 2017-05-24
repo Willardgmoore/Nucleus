@@ -6,11 +6,14 @@
 Welcome to 'The Nucleus'!
 =========================
 
+**Welcome to The Nucleus, the central source of knowledge for CrowdSourcer.io.**
+Here you'll find a trove of information to help with all aspects of the site.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   overview/intro
+   overview/index
    creators/index
    contributors/index
 

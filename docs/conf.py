@@ -54,7 +54,7 @@ author = u'CrowdSourcer.io'
 # built documents.
 #
 # The short X.Y version.
-version = u''
+version = u'1.0'
 # The full version, including alpha/beta/rc tags.
 release = u'1.0'
 
@@ -86,7 +86,7 @@ html_context = {
     # Set the following variables to generate the resulting github URL for each page.
     # Format Template: https://{{ github_host|default("github.com") }}/{{ github_user }}/{{ github_repo }}/blob/{{ github_version }}{{ conf_py_path }}{{ pagename }}{{ suffix }}
     'github_user': 'MikeDaniel18',
-    'github_repo': 'crowdsourcerio-docs',
+    'github_repo': 'Nucleus',
     'github_version': 'master/docs/',
     'css_files': []
 }
@@ -106,12 +106,13 @@ html_theme = 'sphinx_rtd_theme'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+html_static_path = ['_static/css/custom-theme.css']
 
 
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CrowdSourcerioDocsdoc'
+htmlhelp_basename = 'nucleus'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -138,7 +139,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'CrowdSourcerioDocs.tex', u'CrowdSourcer.io Docs Documentation',
+    (master_doc, 'CrowdSourcerioDocs.tex', u'CrowdSourcer.io Docs',
      u'CrowdSourcer.io', 'manual'),
 ]
 
@@ -148,7 +149,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'crowdsourceriodocs', u'CrowdSourcer.io Docs Documentation',
+    (master_doc, 'crowdsourceriodocs', u'CrowdSourcer.io Docs',
      [author], 1)
 ]
 
@@ -159,7 +160,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'CrowdSourcerioDocs', u'CrowdSourcer.io Docs Documentation',
+    (master_doc, 'CrowdSourcerioDocs', u'CrowdSourcer.io Docs',
      author, 'CrowdSourcerioDocs', 'One line description of project.',
      'Miscellaneous'),
 ]

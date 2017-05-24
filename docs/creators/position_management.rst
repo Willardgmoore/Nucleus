@@ -1,4 +1,2 @@
-Project Creation steps
+Managing your project's positions
 ==================================================
-
-

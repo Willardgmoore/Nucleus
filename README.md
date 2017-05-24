@@ -1,4 +1,4 @@
-# CrowdSourcer.io Documentation
+# The Nucleus - CrowdSourcer.io Documentation
 
 This repository generates the documentation available in The Nucleus
 

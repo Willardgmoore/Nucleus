@@ -1,4 +1,2 @@
-Project Creation steps
+Your project settings
 ==================================================
-
-

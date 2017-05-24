@@ -1,4 +1,2 @@
-Project Creation steps
+You project's chat
 ==================================================
-
-
