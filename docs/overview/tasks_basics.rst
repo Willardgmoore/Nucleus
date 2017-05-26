@@ -19,12 +19,12 @@ Completing tasks
 
 When you've finished everything that was required for the task you can mark it as complete and fill in the completion notes. It's definitely best to be descriptive here even if you're using other services or task management tools for your project, as this is what people will see when they're reviewing your task. Linking to pull-requests, commits, uploaded documents or just writing about what you did will go a long way. Once you've submitted it, it will either be marked as complete - in which case you receive those sweet, sweet contribution points - or it'll go to review.
 
-.. _when_task_review:
+.. _tasks_entering_review:
 
-When completed tasks enter review
+Tasks entering review
 ----------------------------------------
 
-Once completed a task will either be marked as complete or it will automagically get sent to review if one of two conditions are met.
+Once completed, a task will either be marked as complete or it will automagically get sent to review if one of two conditions are met.
 
 1. The contributor has 0 contribution points in the project
 
@@ -75,4 +75,4 @@ Once you've gained enough contribution points to 'vote' (this will be set by the
 
 Reviewing tasks is relatively straight forward. Simply give it a thumbs up if the task was done well and thumbs down if it wasn't. If the task gets more than 50% approval it is completed, and if it gets less than 50% approval it is sent back to the contributor to be sorted out. Think of it like a pull request coming in and either being accepted or rejected. It's not necessarily the case that the task was a complete disaster, but it might just need some refinement.
 
-Downvoting a task can be done when a task was completed within a week and has either passed review or skipped it entirely - see: :ref:`when_task_review`. You should only really downvote a task if it genuinely has not been done to the standard required, and should others think the same (~40% of eligible voters) then it'll be sent back to review to be reviewed properly.
+Downvoting a task can be done when a task was completed within a week and has either passed review or skipped it entirely - see: :ref:`tasks_entering_review`. You should only really downvote a task if it genuinely has not been done to the standard required, and should others think the same (~40% of eligible voters) then it'll be sent back to review to be reviewed properly.
