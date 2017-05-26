@@ -1,4 +1,4 @@
-Project Creation
+Project creation
 ==================================================
 
 So, you're prepped and ready to go having gone through :ref:`before_starting` and readied yourself for the next step.
@@ -31,20 +31,22 @@ Media
 
 The only thing required here is your banner image for your project. This is an image (PNG or JPG) that is a minimum of 1024x576 px and should have an aspect ratio of 16:9. It will be cropped to fit the correct aspect ratio if it doesn't.
 
-A good tip for this image is to place any important content (Such as your logo) directly in the image and try to stay within 1/3rd height and 1/3rd width. This is because the image will be shown on your project page with different dimensions visible depending on the viewer's screen width.
+A good tip for this image is to place any important content (Such as your logo) directly in the centre of the image and try to stay within 1/3rd height and 1/3rd width. This is because the image will be shown on your project page with different dimensions visible depending on the viewer's screen width.
 
-Positions
+.. _create_positions:
+
+Project Positions
 ----------
 
 Positions are what potential contributors are going to apply to, they're what tasks get sorted into and they're pretty much the fundamental driver of project growth.
 
 A position has three elements, the project name, the number of spaces and the project description. You should spend some time to craft a description which will give contributors a very good idea as to the skills required and the scope of any undertakings, and you should aim for at least 10 spaces overall.
 
-.. caution:: Having a very few number of contributors in your project can expose yourself to the risk of collusion. This can cause a disruption to the autonomous nature of CrowdSourcer.io projects.
+.. warning:: Having a very few number of contributors in your project can expose yourself to the risk of collusion. This can cause a disruption to the autonomous nature of CrowdSourcer.io projects.
 
 Your position name can either be from a predefined list or created yourself. If you decide to create your own custom position then it won't be indexable and thus can't be filtered in the project discover page. However, since we want to make as many positions indexable as possible, we can add these to the official list when the project gets approved.
 
-For more information about positions, see :ref:`positions_basics` 
+For some more information about positions, see :ref:`positions_basics` 
 
 Submission
 -----------
