@@ -3,14 +3,14 @@
 Tasks
 ===========================
 
-Once a project has gone Live and a team has been formed, tasks may be created. These can then be accepted and completed by members of the project earning users :ref:`contribution_basics`.
+Once a project has gone Live and a team has been formed, tasks may be created. These can then be accepted and completed by members of the project, earning users :ref:`contribution_basics`.
 
 Accepting tasks
 ----------------
 
 A task can only be accepted by members in the same position as the task. For instance, a Graphic Designer can only complete Graphic Designer tasks while a Node.Js developer can only complete Node.Js tasks. Makes sense right? For more information on positions, see: :ref:`positions_basics`.
 
-There is a limit to how many tasks you can accept at any one time. The method for setting a limit on tasks will be set by the project creator via the project settings. The first way is contribution scaled which means you can accept 1 more task every multiple of the setting. For instance, if the project creator sets the limit to scale every 5 pts, then at 0-4 pts you can accept one task, at 5-9 pts you can accept two tasks and so on and so forth. The second method is to set a flat limit which is as simple as it sounds; the maximum tasks you may undertake at any one time will be this limit.
+There is a limit to how many tasks you can accept at any one time. The method for setting a limit on tasks will be set by the project creator via the project settings. The first method is limiting with a *contribution scale*, which means you can accept 1 more task every multiple of the setting. For instance, if the project creator sets the limit to scale every 5 pts, then at 0-4 pts you can accept one task, at 5-9 pts you can accept two tasks and so on and so forth. The second method is to set a *flat limit* which is as simple as it sounds; the maximum tasks you may undertake at any one time will be this limit.
 
 You can see what positions you are in from the Mission Control Dashboard, and you can see how many more tasks you may accept on the Mission Control Tasks page - it's the little badge that says 'Spaces'.
 
@@ -45,10 +45,10 @@ Title
     The name of the task, pretty self explanatory. Keep this short and concise.
 
 Description
-    Make this as detailed as possible, especially if you're not using other task management tools. There should be enough information input to tell team members exactly what needs to be done. Link to documents or to other task managers to increase the chances of a high quality completion.
+    Make this as detailed as possible, especially if you're not using other task management tools. There should be enough information input to tell team members exactly what needs to be done. Link to documents or to other task managers to increase the chances of successful completion.
 
 Contribution points
-    See: :ref:`contribution_basics`. You should set the number of points available for a task based off of the effort required to complete it. Harder tasks = more points and vice versa. A good rule of thumb is that 1 CP should pertain to roughly an 1 hour of contribution - but you can use any scale you like provided its consistent with other task creators throughout the lifetime of the project.
+    See: :ref:`contribution_basics`. You should set the number of points available for a task based off of the effort required to complete it. Harder tasks = more points and vice versa. A good rule of thumb is that 1 CP should pertain to roughly 1 hour of contribution - but you can use any scale you like provided its consistent with other task creators throughout the lifetime of the project.
 
 Priority
     Use this to indicate to contributors the urgency with which this task should be completed. You could even use this to recreate agile sprints, with high priority tasks being in the current sprint and so on.
@@ -75,4 +75,4 @@ Once you've gained enough contribution points to 'vote' (this will be set by the
 
 Reviewing tasks is relatively straight forward. Simply give it a thumbs up if the task was done well and thumbs down if it wasn't. If the task gets more than 50% approval it is completed, and if it gets less than 50% approval it is sent back to the contributor to be sorted out. Think of it like a pull request coming in and either being accepted or rejected. It's not necessarily the case that the task was a complete disaster, but it might just need some refinement.
 
-Downvoting a task can be done when a task was completed within a week and has either passed review or skipped it entirely - see: :ref:`tasks_entering_review`. You should only really downvote a task if it genuinely has not been done to the standard required, and should others think the same (~40% of eligible voters) then it'll be sent back to review to be reviewed properly.
+Downvoting a task can be done when a task was completed within a week and has either passed review or skipped it entirely - see: :ref:`tasks_entering_review`. You should only really downvote a task if it genuinely has not been done to the standard required, and should others think the same (~40% of eligible voters) then it'll be sent back to review to be reviewed properly. This can be done from the 'completed' tab on the tasks page in Mission Control.
