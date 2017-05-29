@@ -38,7 +38,7 @@ A good tip for this image is to place any important content (Such as your logo) 
 .. _create_positions:
 
 Project Positions
-----------
+------------------
 
 Positions are what potential contributors are going to apply to, they're what tasks get sorted into and they're pretty much the fundamental driver of project growth.
 

@@ -11,4 +11,4 @@ As a contributor, every time you dedicate effort to a project you'll gain :ref:`
 
 .. rubric:: An equitable business structure
 
-Participating in projects on CrowdSourcer.io doesn't just mean you get a portion of the sales, it means you are a member of a team whose opinions and expertise can greatly influence the product. Projects are autonomous entities and as a contributor you have a role in reviewing tasks and voting, as well as contributing to the management of the project.
+Participating in projects on CrowdSourcer.io doesn't just mean you get a portion of the sales, it means you are a member of a team whose opinions and expertise can greatly influence the end product. Projects are autonomous entities and as a contributor you have a role in reviewing tasks and voting, as well as contributing to the management of the project.
