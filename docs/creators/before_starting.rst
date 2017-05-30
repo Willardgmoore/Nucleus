@@ -19,7 +19,7 @@ The most important thing to do before creating your project on CrowdSourcer.io i
 Product identity
 --------------------
 
-The next thing you'll want to do is to pin down your project's identity. If you haven't already **come up with a name**, do so now. You can always change it down the line if you use a prototype name (e.g. 'Project Titan') or if you want to re-brand yourself. You'll also want to **create a basic brand** around the product which will include a banner image for you to use on the site. Making this look professional can go a long way - first impressions count after all. Again, you can always improve it and rework it if you and your team think it's not to a high enough quality.
+The next thing you'll want to do is to pin down your project's identity. If you haven't already **come up with a name**, do so now. You can always change it down the line if you use a prototype name (e.g. 'Project Titan') or if you want to re-brand yourself. You'll also want to **create a basic brand** around the product which will include a banner image for you to use on the site. Making this look professional can go a long way - first impressions count after all. Again, you can always improve it and rework it if you and your team think it's not to a high enough quality. Nothing tells the world to take a project seriously like a video, though. So how about recording an introduction video and uploading it to YouTube? You can display it on your Project page once you've been approved.
 
 Lastly, you'll want to secure any accounts or domains that may become of use down the line or on going live. Sometimes this can incur a (small) cost, but it will make your project all the more impressive to contributors and so is well worth it.
 
@@ -27,6 +27,7 @@ To summarise:
 
 - Finalise your product name
 - Brand your product, including creation of a banner image
+- Create a project video and upload it to YouTube
 - Secure website domains - even create a site
 - Create third party accounts, e.g. with retailers
 

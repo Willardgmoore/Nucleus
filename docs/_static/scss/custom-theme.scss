@@ -1,0 +1,29 @@
+@media screen and (min-width: 1400px) {
+    .wy-nav-content-wrap {
+        background: #fcfcfc;
+    }
+    .wy-nav-content {
+        margin: auto;
+        background: transparent;
+    }
+}
+
+.wy-nav-content-wrap {
+    padding-top: 60px;
+}
+
+.wy-nav-side {top: 60px;}
+
+.navbar {
+    height: 60px;
+    z-index: 201;
+    border-bottom: 1px #e7e7e7 solid;
+    &.navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+        position: fixed;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+}

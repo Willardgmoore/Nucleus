@@ -9,6 +9,7 @@ Welcome to *CrowdSourcer.io*. There's so much we want to show you.
 
    intro
    projects_basics
+   mission_control
    contributors_basics
    position_basics
    contribution_points

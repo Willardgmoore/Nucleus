@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'CrowdSourcer.io'
+project = u'The Nucleus'
 copyright = u'2017, CrowdSourcer.io'
 author = u'CrowdSourcer.io'
 
