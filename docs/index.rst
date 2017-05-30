@@ -14,7 +14,6 @@ Here you'll find a trove of information to help with all aspects of the site.
    :caption: Contents:
 
    overview/index
-.. 
    creators/index
    contributors/index
 

@@ -8,7 +8,7 @@ Before going about setting up your project, we've prepared some things for you t
 Prep work
 -------------------
 
-The most important thing to do before creating your project on CrowdSourcer.io is to build up and as many resources as possible to help attract and then aid any contributors that may join the project once you are approved. This may include:
+The most important thing to do before creating your project on CrowdSourcer.io is to build up as many resources as possible to help attract and then aid any contributors that may join the project once you are approved. This may include:
 
 - Creating a roadmap
 - Planning a workflow
