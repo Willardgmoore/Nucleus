@@ -37,4 +37,4 @@ That big, blue button is becoming more and more tempting with every passing minu
 
 Once you've done those two, you're all set. Hit that button!
 
-.. warning:: Having only a very few number of contributors in a project can expose it to the risk of collusion. This can cause a disruption to the autonomous nature of CrowdSourcer.io projects.
+.. warning:: Having only a very few number of contributors in a project can expose it to the risk of collusion. This can cause a disruption to the autonomous nature of Crowdsourcer.io projects.

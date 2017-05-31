@@ -1,7 +1,7 @@
 Getting more contributors
 ==================================================
 
-So you've been through a lot, preparing for and creating your project. But not enough people are applying. Well, we're sorry, CrowdSourcer.io is still young - heck, we don't even know if it's going to take off at all! But that's not to say you can't get people in from outside of CrowdSourcer.io to help you out.
+So you've been through a lot, preparing for and creating your project. But not enough people are applying. Well, we're sorry, Crowdsourcer.io is still young - heck, we don't even know if it's going to take off at all! But that's not to say you can't get people in from outside of Crowdsourcer.io to help you out.
 
 Invites
 ---------

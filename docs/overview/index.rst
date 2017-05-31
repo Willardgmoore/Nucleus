@@ -1,7 +1,7 @@
 Overview
 =========
 
-Welcome to *CrowdSourcer.io*. There's so much we want to show you.
+Welcome to *Crowdsourcer.io*. There's so much we want to show you.
 
 .. toctree::
    :maxdepth: 1

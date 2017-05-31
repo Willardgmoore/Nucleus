@@ -3,7 +3,7 @@
 Before accepting applications
 ==================================================
 
-CrowdSourcer.io is built on trust. And sadly, as much as we wish it weren't the case, there'll always be people who are less trustworthy than we'd like. Because of this, we've prepared some tips for you to think about when accepting applications to your project.
+Crowdsourcer.io is built on trust. And sadly, as much as we wish it weren't the case, there'll always be people who are less trustworthy than we'd like. Because of this, we've prepared some tips for you to think about when accepting applications to your project.
 
 Read their application carefully
 ---------------------------------
@@ -13,7 +13,7 @@ A good application will have links to their work and will have gone into detail 
 Review their profile
 ----------------------
 
-The first thing to check is to see if they've had any experience on CrowdSourcer.io. If they've been in the same position they're applying to, before, then their approval for that position will be shown to you with their application. It still doesn't hurt to go on their profile anyway and see what their approval has been like in other tasks.
+The first thing to check is to see if they've had any experience on Crowdsourcer.io. If they've been in the same position they're applying to, before, then their approval for that position will be shown to you with their application. It still doesn't hurt to go on their profile anyway and see what their approval has been like in other tasks.
 
 Check out their GitHub account or other links
 -----------------------------------------------

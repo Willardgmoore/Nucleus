@@ -8,7 +8,7 @@ Before going about setting up your project, we've prepared some things for you t
 Prep work
 -------------------
 
-The most important thing to do before creating your project on CrowdSourcer.io is to build up as many resources as possible to help attract and then aid any contributors that may join the project once you are approved. This may include:
+The most important thing to do before creating your project on Crowdsourcer.io is to build up as many resources as possible to help attract and then aid any contributors that may join the project once you are approved. This may include:
 
 - Creating a roadmap
 - Planning a workflow
@@ -36,9 +36,9 @@ To summarise:
 Prove yourself
 -----------------
 
-Lastly you've got to prove to everyone that you can do your part. Granted, CrowdSourcer.io projects are autonomous and everyone can influence it positively, but that's not to say that a leader figure isn't need. You're going to be deciding who comes into the project and doing a large amount of project management among other things, so it's crucial that you can convince any potential contributors that you're up to the job. Filling out your profile with your skills and past work can go a long way.
+Lastly you've got to prove to everyone that you can do your part. Granted, Crowdsourcer.io projects are autonomous and everyone can influence it positively, but that's not to say that a leader figure isn't need. You're going to be deciding who comes into the project and doing a large amount of project management among other things, so it's crucial that you can convince any potential contributors that you're up to the job. Filling out your profile with your skills and past work can go a long way.
 
-**And that's it!** You've got everything you need to begin your project on CrowdSourcer.io.
+**And that's it!** You've got everything you need to begin your project on Crowdsourcer.io.
 
 What next?
 -----------
