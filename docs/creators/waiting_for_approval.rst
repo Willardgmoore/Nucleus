@@ -13,7 +13,7 @@ If your project is likely going to use any repositories, now is the time to set 
 
 .. rubric:: Workspace
 
-Are you going to be using external tools for anything? For instance, GoogleDrive for document sharing, or Trello for agile project managment? If so, get them set up. Put as much content on there as possible!
+Are you going to be using external tools for anything? For instance, GoogleDrive for document sharing, or Trello for agile project management? If so, get them set up. Put as much content on there as possible!
 
 .. rubric:: Documentation
 

@@ -14,6 +14,8 @@ There is a limit to how many tasks you can accept at any one time. The method fo
 
 You can see what positions you are in from the Mission Control Dashboard, and you can see how many more tasks you may accept on the Mission Control Tasks page - it's the little badge that says 'Spaces'.
 
+.. _completing_tasks_info:
+
 Completing tasks
 ----------------
 

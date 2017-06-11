@@ -33,7 +33,7 @@ From this page, creators can accept invitations into their project - see: :ref:`
 Project (Creators only)
 ----------------------------
 
-This pages has three tabs that creators can access.
+These pages has three tabs that creators can access.
 
 .. rubric:: Project
 
