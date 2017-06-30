@@ -17,3 +17,8 @@ Access
 ---------------
 
 All contributors that you accept into your project are automatically added to the chat, and as with the project as a whole, contributors can not be removed without good reason so make sure they're vetted first - see :ref:`before_accepting_applications`.
+
+Getting help
+--------------
+
+If you ever have a need to chat with some support, whether it's just for simple advice, guidance or if there's a problem with the project or individuals, don't hesitate to get some help into you project's chat. To do this all you have to do is click the yellow button under 'Housten, we have a problem' on the project chat page. Someone will instantly be added to the chat. If they're not online send them a Direct Message and they'll be notified and will hopefully respond very soon.
