@@ -42,7 +42,7 @@ Project Positions
 
 Positions are what potential contributors are going to apply to, they're what tasks get sorted into and they're pretty much the fundamental driver of project growth.
 
-A position has three elements, the position name, the number of spaces and the project description. You should spend some time to craft a description which will give contributors a very good idea as to the skills required and the scope of any undertakings, and you should aim for at least 10 spaces overall.
+A position has three elements, the position name, the number of spaces and the position description. You should spend some time to craft a description which will give contributors a very good idea as to the skills required and the scope of any undertakings, and you should aim for at least 10 spaces overall.
 
 .. warning:: Having only a very few number of contributors in a project can expose it to the risk of collusion. This can cause a disruption to the autonomous nature of Crowdsourcer.io projects.
 
