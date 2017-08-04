@@ -18,9 +18,9 @@ The first thing to check is to see if they've had any experience on Crowdsourcer
 Check out their GitHub account or other links
 -----------------------------------------------
 
-You're well with in your rights to ask for applicants to put their GitHub profile or a link to some other site, along with their application. If they don't have an account, that's fine, there's other means of judging them. But if they do, definitely go through with it (unless they look dodgy) and check out what they want to show. It can make or break an application.
+You're well within your rights to ask for applicants to put their GitHub profile or a link to some other site, along with their application. If they don't have an account, that's fine, there's other means of judging them. But if they do, definitely go through with it (unless they look dodgy) and check out what they want to show. It can make or break an application.
 
-.. warning:: Make sure you're looking for those red flags. You'll know them when you see them. Once someone is in your project there is no way to remove them without an administrator helping out. You can at most, remove their position from them.
+.. warning:: Make sure you're looking for those red flags. You'll know them when you see them. Once someone is in your project there is no way to remove them without an administrator helping out. You can at most remove their position from them.
 
 
 

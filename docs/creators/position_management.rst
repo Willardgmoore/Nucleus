@@ -1,7 +1,7 @@
 Managing your project's positions
 ==================================================
 
-Managing your project's positions and changing which contributors are in which positions can be done from the 'Position' page in the :ref:`mission_control`. Contributors in your project can be a part of as many or as few positions as you see fit and aren't fixed to the position that they applied to originally.
+Managing your project's positions and changing which contributors are in which positions can be done from the *Position* page in the :ref:`mission_control`. Contributors in your project can be a part of as many or as few positions as you see fit and aren't fixed to the position that they applied to originally.
 
 Project positions
 ------------------
@@ -27,4 +27,4 @@ User positions
 
 From this tab you can view all the contributors in your project and select/deselect the positions that they are in. A user may be in 0, 1 or multiple positions. Setting a user to 0 positions is a good method of temporarily preventing that user from accepting new tasks and should be the first port of call if there are any issues with individuals. It's as simple as selecting the relevant check box to reinstate the position once the issue has been resolved. If you want to search for a particular user you may type in their Username (or part of) into the search bar provided.
 
-**Don't forget to press 'Save' after making changes.**
+**Don't forget to press *Save* after making changes.**

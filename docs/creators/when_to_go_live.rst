@@ -8,7 +8,7 @@ Congratulations! You've been approved! So now what? Well, things are starting to
 Add project media
 -------------------
 
-From your Mission Control, head to *Project* and then click the *Media* tab. From there you can link to videos and images on external sites (for videos we currently only accept YouTube) or upload images to our servers. These will be displayed on your Project page and you can add captions and reorder them and what not.
+From your Mission Control, head to *Project* and then click the *Media* tab. From there you can link to videos and images on external sites (for videos we currently only accept YouTube) or upload images to our servers. These will be displayed on your Project page and you can add captions and reorder them and whatnot.
 
 Add tasks
 ----------
@@ -18,12 +18,12 @@ If you know roughly what might need to be done as soon as you're out of the gate
 Invite people
 ---------------
 
-If you know anyone who you think might be interested in joining your project. Drop them an invite. If they're not registered an email will be sent asking them to do so if they wish to join in. You can also use registered members' usernames. If at any time you want to revoke the invitation you can do so.
+If you know anyone who you think might be interested in joining your project. Drop them an invite. If they're not registered an email will be sent asking them to do so, if they wish to join in. You can also use registered members' usernames. If at any time you want to revoke the invitation you can do so.
 
 Accept applications
 --------------------
 
-If you're lucky enough to have received some applications then go ahead and accept (after you've reviewed them of course - see :ref:`before_accepting_applications`). They won't be able to access the Mission Control, but at least they'll get a notification once you go live. You can of course jump into the chat application and have speak with them, which is great for introductions and what not. You could even start planning some things whilst you wait for yet more applicants.
+If you're lucky enough to have received some applications then go ahead and accept (after you've reviewed them of course - see :ref:`before_accepting_applications`). They won't be able to access the Mission Control, but at least they'll get a notification once you go live. You can of course jump into the chat application and have speak with them, which is great for introductions and getting to know one another. You could even start planning some things whilst you wait for yet more applicants.
 
 .. _when_to_go_live:
 

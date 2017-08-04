@@ -28,7 +28,7 @@ To summarise:
 - Finalise your product name
 - Brand your product, including creation of a banner image
 - Create a project video and upload it to YouTube
-- Secure website domains - even create a site
+- Secure website domains - even create a site if possible
 - Create third party accounts, e.g. with retailers
 
 .. note:: By dedicating more time to developing the infrastructure and foundations of your product, you increase its value. In doing so you increase the attractiveness to potential contributors and also make it more than just *an idea*. This reduces the likelihood of someone else simply taking your idea and doing it themselves.
