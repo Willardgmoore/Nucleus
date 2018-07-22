@@ -16,6 +16,7 @@ Here you'll find a trove of information to help with all aspects of the site.
    overview/index
    creators/index
    contributors/index
+   sales/index
    problems/index
 
 More coming soon.

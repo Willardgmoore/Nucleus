@@ -50,7 +50,7 @@ Description
     Make this as detailed as possible, especially if you're not using other task management tools. There should be enough information input to tell team members exactly what needs to be done. Link to documents or to other task managers to increase the chances of successful completion.
 
 Contribution points
-    See: :ref:`contribution_basics`. You should set the number of points available for a task based off of the effort required to complete it. Harder tasks = more points and vice versa. A good rule of thumb is that 1 CP should pertain to roughly 1 hour of contribution - but you can use any scale you like provided its consistent with other task creators throughout the lifetime of the project.
+    See: :ref:`contribution_basics`. You should set the number of points available for a task based off of the effort required to complete it. Harder tasks = more points and vice versa. A good rule of thumb is that 1 C.Pts should pertain to roughly 1 hour of contribution - but you can use any scale you like provided its consistent with other task creators throughout the lifetime of the project.
 
 Priority
     Use this to indicate to contributors the urgency with which this task should be completed. You could even use this to recreate agile sprints, with high priority tasks being in the current sprint and so on.

@@ -3,7 +3,7 @@
 Project Creators
 =========================
 
-Welcome project creators! We're really excited to see what you come up with and can't wait for you to get stuck in. But we appreciate that there's quite a lot to take in so we've created this knowledge base to provide as much information as we can. Don't forget the **Project Creation Guide** has much of the information here, just in a nice fancy booklet and focussed on getting you up and running.
+Welcome project creators! We're really excited to see what you come up with and can't wait for you to get stuck in. But we appreciate that there's quite a lot to take in so we've created this knowledge base to provide as much information as we can. Don't forget that the `Project Creation Guide <https://crowdsourcer.io/assets/files/Project%20Creation%20Guide.pdf>`_ has much of the information here, just in a nice fancy booklet focussed on getting you up and running.
 
 .. toctree::
    :maxdepth: 1

@@ -16,7 +16,7 @@ In the development stage, Crowdsourcer.io provides a project management system (
 
 .. rubric:: Distribution
 
-Crowdsourcer.io provides tools for teams to sell their creations - currently only through the project page, but soon to be through our own dedicated store, on your own websites and maybe even through external retailers (provided we can set up the payment processing for it).
+Crowdsourcer.io provides tools for teams to sell their creations - through the project page, on your own websites and even through external retailers.
 
 Who it's for
 --------------------------------------------------------------------

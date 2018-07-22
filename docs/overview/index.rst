@@ -14,5 +14,6 @@ Welcome to *Crowdsourcer.io*. There's so much we want to show you.
    position_basics
    contribution_points
    tasks_basics
+   products
    
 

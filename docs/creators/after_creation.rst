@@ -11,9 +11,9 @@ From your :ref:`mission_control` you can send invites (access through the applic
 Widgets
 --------
 
-Throughout the Mission Control, you'll find a small alert with information on the widget builder. All you have to do is click on the type you want, chuck in some parameters (if you want - the default parameters will look just fine) and embed them via HTML. Lots of forum signatures, for instance, allow HTML, so you can plonk it in their. Hopefully people will click on it and then join in.
+Throughout the Mission Control, you'll find a small alert with information on the widget builder. All you have to do is click on the type you want, chuck in some parameters (if you want - the default parameters will look just fine) and embed them via HTML. Lots of forum signatures, for instance, allow HTML, so you can plonk it in there. Hopefully people will click on it and then join in.
 
 General shouting from rooftops
 -------------------------------
 
-Shout, friends, shout. Getting the word out is often tough, but we recommend you avoid spending any money to get it out there (unless you're comfortable with the fact that you'll get no further :ref:`contribution_basics` for spending). Going to forums, message boards, local communities and anywhere else you can find like minded people is generally a good idea. It's normal marketing like any other low budget project.
+Shout, friends, shout. Getting the word out is often tough, but we recommend you avoid spending any money to get it out there (unless you're comfortable with the fact that you'll get no further :ref:`contribution_basics` for spending). Going to forums, message boards, local communities and anywhere else you can find like minded people is generally a good idea. It's normal marketing like any other bootstrapped project.
