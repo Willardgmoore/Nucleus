@@ -15,6 +15,11 @@ Tasks
 
 Here you can view, undertake, review and complete tasks. For more information on tasks see: :ref:`tasks_basics`. 
 
+Sales (Projects with sales only)
+--------------------------------
+
+Here you can see all the details of sales, refunds and more. You can also view your outstanding balance and share of the project's profits.
+
 Chat
 ----------------------------
 
@@ -46,6 +51,11 @@ From here you can link to or upload images, as well as link to YouTube videos. T
 .. rubric:: Updates
 
 Lastly this tab allows you post updates to your project page. This can be useful when telling others who aren't in the project, how it's coming along. You can publish as many as you like and cover any topics you like. You could even make it fun and highlight something every week or so. For instance, if you're making a game, one week you could do a highlight of the Artwork, and then another week do a highlight for the sound design. That'll keep people interested.
+
+Store Manager (Creators & Projects with sales only)
+---------------------------------------------------
+
+Create and manage products (see: :ref:`selling_your_product`), project branding and stock all from one page. This is the core place to go for earning money from Crowdsourcer.io.
 
 Settings (Creators only)
 ----------------------------

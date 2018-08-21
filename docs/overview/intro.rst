@@ -26,7 +26,7 @@ Crowdsourcer.io is for the creative technicals whose talents are often put to wa
 How to use it
 --------------------------------------------------------------------
 
-Got a ground breaking idea? Create a project! Projects are what make Crowdsourcer.io worthwhile. We’ve assembled a [Project Creation Guide] that will help you get through every single stage from inception to going live. Alternatively, keep exploring The Nucleus or jump right in and figure it out as you go along!
+Got a ground breaking idea? Create a project! Projects are what make Crowdsourcer.io worthwhile. We’ve assembled a `Project Creation Guide <https://crowdsourcer.io/assets/files/Project%20Creation%20Guide.pdf>`_ that will help you get through every single stage from inception to going live. Alternatively, keep exploring The Nucleus or jump right in and figure it out as you go along!
 
 Want to help others and build up your own experience? Then start applying to projects that are already live. Complete tasks, build your user approval and hopefully if the project goes well, earn some money for it.
 

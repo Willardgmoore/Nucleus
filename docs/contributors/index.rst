@@ -9,3 +9,4 @@ Contributors
 
    building_your_profile
    applying_to_a_project
+   getting_paid

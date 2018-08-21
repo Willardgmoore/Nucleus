@@ -24,8 +24,8 @@ This can take many forms, from unfairly allocating tasks, to excluding individua
 Profits not being distributed equitably
 ---------------------------------------
 
-It is required of any project built using Crowdsourcer.io to distribute all external profits (revenue, after all costs) through the payroll tool, unless unanimously agreed otherwise by *all* members of the project. If this is not the case, get in contact with Crowdsourcer.io support. On top of this, rally your fellow contributors and do what you can to reach out to the creator as a collective. Ultimately you're all in it together and everyone needs everyone to make it a success.
+It is required of any project built using Crowdsourcer.io to distribute all external profits through the :ref:`Payroll feature <sell_through_third_party>`, unless unanimously agreed otherwise by *all* members of the project. When such a time comes as to be able to log expenses in the Crowdsourcer.io platform, then all externally acquired *revenue* must be paid in via the Payroll system. You can see a :ref:`Creator's Obligations to you here <creator_obligations>`.
 
-.. note:: Please note that soon we'll have legal templates for you to use as well as terms that require project creators to pay all contributors through Crowdsourcer.io and have a structure that protects *all* members of a project. This section will be updated when more information is available.
+If this is not the case, get in contact with Crowdsourcer.io support. On top of this, rally your fellow contributors and do what you can to reach out to the creator as a collective. Ultimately you're all in it together and everyone needs everyone to make it a success.
 
-
+.. note:: Please note that soon we'll have legal templates for you to use to protect your IP. This section will be updated when more information is available.

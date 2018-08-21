@@ -164,3 +164,9 @@ texinfo_documents = [
      author, 'CrowdSourcerioDocs', 'One line description of project.',
      'Miscellaneous'),
 ]
+
+# Global Variables
+rst_prolog = """
+.. |payRate| replace:: 6.5%
+.. |shopRate| replace:: 17.5%
+"""
