@@ -78,7 +78,7 @@ When the sale is complete, a redirect is sent with a URL parameter of "csioStatu
 Running Payroll
 ---------------
 
-But what if Crowdsourcer.io can't provide the right product for you, or if you can only sell your product on a third party store (such as an App on the iOS App Store), what do you then? Easy, all you have to do is run your profits through the Payroll system. All this does is allows you (the creator of a project) to pay into the project and distribute those earnings to *both* you and and all your fellow contributors - meaning you shouldn't take a cut before paying in as you too will be paid by the payroll algorithm. For more information on how money will be split, see the :ref:`payout_policy`.
+If Crowdsourcer.io can't provide the right product for you, or if you can only sell your product on a third party store (such as an App on the iOS App Store), what do you do then? Easy, all you have to do is run your profits through the Payroll system. All this does is allows you (the creator of a project) to pay into the project and distribute those earnings to *both* you and and all your fellow contributors - meaning you shouldn't take a cut before paying in as you too will be paid by the payroll algorithm. For more information on how money will be split, see the :ref:`payout_policy`.
 
 To run Payroll:
 
@@ -98,3 +98,5 @@ Creator Obligations
 ---------------------------
 
 As a creator of a project, you're required to pay yourself and your fellow contributors using the Payroll feature when sales are made outside of the Crowdsourcer.io platform. As you do not own the copyrights of the work fellow contributors have put into your project, to comply with international copyright/IP laws, you are required to pay them. Under the Terms and Conditions that you've agreed to when using Crowdsourcer.io, this remuneration *must* be performed using the Payroll system. For further information, please see the `Terms and Conditions <https://crowdsourcer.io/terms>`_.
+
+It is also your responsibility to ensure any activities are performed legally in your country of residence. This includes ensuring correct levels of taxation are paid, company registration is completed (if required) and any other specific, relevant and domestic laws are complied with.

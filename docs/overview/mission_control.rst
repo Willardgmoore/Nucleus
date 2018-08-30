@@ -15,7 +15,7 @@ Tasks
 
 Here you can view, undertake, review and complete tasks. For more information on tasks see: :ref:`tasks_basics`. 
 
-Sales (Projects with sales only)
+Sales
 --------------------------------
 
 Here you can see all the details of sales, refunds and more. You can also view your outstanding balance and share of the project's profits.
